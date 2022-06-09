@@ -9,7 +9,7 @@
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align ="right" alt="Luiz-Gif" height="130" width="130" src="https://i.picasion.com/pic92/afb7d73517e858371d4c4378937c0c7a.gif"
+  <img align ="right" alt="Luiz-Gif" height="130" width="130" src="https://github.com/lchristofoletti/lchristofoletti/blob/main/luizgif.gif"
 </div>
   
   ##
